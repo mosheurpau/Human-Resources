@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  .logo-title {
+    font-size: 16px;
+  }
+  .nav-logo {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+.logo-text {
+  color: #01a1ff;
+  font-weight: 900;
+}
